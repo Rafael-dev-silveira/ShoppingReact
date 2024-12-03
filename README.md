@@ -16,5 +16,5 @@ Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite
 - CSS3: linguagem de estilo para estilizar a interface do usuário.
 - API do Mercado Livre: utilizada para obter dados de produtos.
 
-## Playlist no Youtube
+
 
